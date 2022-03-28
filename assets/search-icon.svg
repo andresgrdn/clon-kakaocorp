@@ -23,9 +23,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="20.766609"
-     inkscape:cx="18.780148"
-     inkscape:cy="10.208696"
+     inkscape:zoom="10.383305"
+     inkscape:cx="21.380477"
+     inkscape:cy="4.9117311"
      inkscape:window-width="1365"
      inkscape:window-height="741"
      inkscape:window-x="0"
@@ -47,7 +47,7 @@
      transform="translate(-181.46356,-129.03953)">
     <path
        id="path844"
-       style="fill:#000000;stroke-width:1.2632;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke;stop-color:#000000"
+       style="fill:#ffffff;stroke-width:1.2632;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke;stop-color:#000000"
        d="m 184.2877,129.03953 a 2.8243259,2.8243259 0 0 0 -2.82414,2.82414 2.8243259,2.8243259 0 0 0 2.82414,2.82482 2.8243259,2.8243259 0 0 0 1.86391,-0.70233 l 1.6794,1.6794 0.24713,-0.24781 -1.67873,-1.67872 a 2.8243259,2.8243259 0 0 0 0.71243,-1.87536 2.8243259,2.8243259 0 0 0 -2.82414,-2.82414 z m 0,0.36833 a 2.456624,2.456624 0 0 1 2.45648,2.45581 2.456624,2.456624 0 0 1 -2.45648,2.45648 2.456624,2.456624 0 0 1 -2.45715,-2.45648 2.456624,2.456624 0 0 1 2.45715,-2.45581 z" />
   </g>
 </svg>
