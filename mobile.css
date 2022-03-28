@@ -6,3 +6,21 @@
 html {
   font-size: 62.5%;
 }
+.container-header {
+  background: whitesmoke;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 6rem;
+}
+.container-header .logo {
+  margin-left: 2rem;
+}
+.container-header .nav-block {
+  display: flex;
+  justify-content: space-between;
+  margin-right: 2rem;
+}
+.nav-block > * {
+  margin-left: 3rem;
+}
