@@ -1,5 +1,6 @@
 :root {
-  --bkg-color: rgb(0, 0, 0);
+  --bkg-color: #000;
+  --principal-text: #fff;
 }
 * {
   box-sizing: border-box;
@@ -26,4 +27,8 @@ html {
 }
 .nav-block > * {
   margin-left: 3rem;
+}
+.container-main {
+  background: var(--bkg-color);
+  color: var(--principal-text);
 }
