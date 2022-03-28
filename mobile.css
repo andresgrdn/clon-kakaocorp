@@ -1,6 +1,7 @@
 :root {
   --bkg-color: #000;
   --principal-text: #fff;
+  --principal-family-font: sans-serif;
 }
 * {
   box-sizing: border-box;
@@ -9,6 +10,10 @@
 }
 html {
   font-size: 62.5%;
+}
+body {
+  font-family: var(--principal-family-font);
+  font-size: 1.6rem;
 }
 .container-header {
   background: var(--bkg-color);
