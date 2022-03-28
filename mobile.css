@@ -2,6 +2,8 @@
   --bkg-color: #000;
   --principal-text: #fff;
   --principal-family-font: sans-serif;
+  --principal-margin-left: 2rem;
+  --principal-margin-right: 2rem;
 }
 * {
   box-sizing: border-box;
@@ -36,4 +38,19 @@ body {
 .container-main {
   background: var(--bkg-color);
   color: var(--principal-text);
+}
+.container-main .section-sup {
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  margin-left: var(--principal-margin-left);
+  margin-right: var(--principal-margin-right);
+}
+.container-main .section-inf {
+  display: flex;
+  justify-content: left;
+  font-size: 3.2rem;
+  font-weight: 700;
+  margin-left: var(--principal-margin-left);
+  margin-right: var(--principal-margin-right);
 }
