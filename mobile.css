@@ -52,6 +52,9 @@ body {
   justify-content: left;
   align-items: center;
 }
+.container-main .section-sup h1 {
+  margin-left: 1rem;
+}
 .container-main .section-inf {
   display: flex;
   justify-content: left;
