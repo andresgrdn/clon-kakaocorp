@@ -86,7 +86,19 @@ body {
   display: flex;
   justify-content: space-between;
 }
-.cabecera__globo {
+.cabecera__img {
+  margin-right: 1rem;
+}
+/* .globo__cola {
+  background: var(--bkg-color-globo);
+  position: absolute;
+  z-index: 1;
+  background: red;
+  width: 2rem;
+  height: 1rem;
+  transform: translateX(-1px) translateY(5px) skewX(45deg);
+} */
+.globo__texto {
   background: var(--bkg-color-globo);
   border-radius: 1rem;
   padding: 1rem;
