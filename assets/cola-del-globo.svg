@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="4.00067mm"
+   height="3.6661742mm"
+   viewBox="0 0 4.00067 3.6661742"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="cola-del-globo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="23.025165"
+     inkscape:cx="9.2724635"
+     inkscape:cy="5.6459965"
+     inkscape:window-width="1365"
+     inkscape:window-height="741"
+     inkscape:window-x="0"
+     inkscape:window-y="1"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-42.762232,-94.777902)">
+    <path
+       id="path1682"
+       style="fill:#444444;stroke-width:3.77953;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke;stop-color:#000000;fill-opacity:1"
+       inkscape:transform-center-y="-0.61102959"
+       transform="matrix(0.02172558,0,0,0.02909624,40.021694,84.355172)"
+       d="m 310.28897,484.21735 h -135.4509 c 0,0 -3.73371,-43.02354 -11.55724,-63.60735 -8.32187,-21.89493 -37.13746,-62.3943 -37.13746,-62.3943 0,0 68.9094,29.1061 98.12244,48.70837 33.36986,22.39155 86.02316,77.29328 86.02316,77.29328 z"
+       sodipodi:nodetypes="ccacac" />
+  </g>
+</svg>
