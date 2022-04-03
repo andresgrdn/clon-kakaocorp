@@ -130,3 +130,35 @@ body {
 }
 
 /* Tarjeta tipo 1 - end */
+
+/* Tarjeta tipo 2 - start */
+
+.tarjeta-tipo-2 {
+  background: var(--bkg-color-secundario);
+  margin: var(--margin-top-bottom-tarjetas) 0;
+  border-radius: var(--border-radius-tarjetas);
+  overflow: hidden;
+}
+.tarjeta-tipo-2__header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 20px;
+}.tarjeta-tipo-2__header .cabecera {
+  display: flex;
+  justify-content: space-between;
+  margin-left: var(--margin-sides-tarjetas);
+}
+.tarjeta-tipo-2__contenido {
+  padding: 1rem;
+}
+.tarjeta-tipo-2__contenido h2 {
+  padding-top: 20px;
+  font-size: 4.2rem;
+}
+.tarjeta-tipo-2__contenido p {
+  padding: 20px 0;
+  color: var(--texto-color-tags);
+}
+
+/* Tarjeta tipo 2 - end */
