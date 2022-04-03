@@ -65,6 +65,9 @@ body {
   font-size: 3.2rem;
   font-weight: 700;
 }
+
+/* Tarjeta tipo 1 - start */
+
 .tarjeta-tipo-1 {
   background: var(--bkg-color-secundario);
   margin-top: var(--margin-top-tarjetas);
@@ -74,7 +77,7 @@ body {
 .tarjeta-tipo-1 .cuadro-texto {
   padding: 1rem;
 }
-.tarjeta-tipo-1 img {
+.tarjeta-tipo-1__img {
   width: 100%;
 }
 .container-header-tarjeta {
@@ -89,15 +92,16 @@ body {
 .cabecera__img {
   margin-right: 1rem;
 }
-/* .globo__cola {
-  background: var(--bkg-color-globo);
-  position: absolute;
-  z-index: 1;
-  background: red;
-  width: 2rem;
-  height: 1rem;
-  transform: translateX(-1px) translateY(5px) skewX(45deg);
-} */
+.globo {
+  display: flex;
+  justify-content: left;
+}
+.globo__cola {
+  position: relative;
+  left: 12.5px;
+  top: -14px;
+  width: 12px;
+}
 .globo__texto {
   background: var(--bkg-color-globo);
   border-radius: 1rem;
@@ -105,3 +109,5 @@ body {
   font-size: 1.6rem;
   margin-left: 0.5rem;
 }
+
+/* Tarjeta tipo 1 - end */
