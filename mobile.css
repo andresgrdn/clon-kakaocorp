@@ -10,6 +10,9 @@
   --margin-top-tarjetas: 2rem;
   --margin-sides-tarjetas: 20px;
 }
+
+/* Reiniciado de propiedades - start */
+
 * {
   box-sizing: border-box;
   padding: 0;
@@ -18,6 +21,9 @@
 html {
   font-size: 62.5%;
 }
+
+/* Reiniciado de propiedades - end */
+
 body {
   font-family: var(--principal-family-font);
   font-size: 1.6rem;
