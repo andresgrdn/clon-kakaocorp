@@ -8,6 +8,7 @@
   --principal-margin-right: 2rem;
   --border-radius-tarjetas: 1rem;
   --margin-top-tarjetas: 2rem;
+  --margin-sides-tarjetas: 20px;
 }
 * {
   box-sizing: border-box;
@@ -80,17 +81,16 @@ body {
 .tarjeta-tipo-1__img {
   width: 100%;
 }
-.container-header-tarjeta {
+.tarjeta-tipo-1__header {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  padding-top: 20px;
 }
-.container-header-tarjeta .cabecera {
+.tarjeta-tipo-1__header .cabecera {
   display: flex;
   justify-content: space-between;
-}
-.cabecera__img {
-  margin-right: 1rem;
+  margin-left: var(--margin-sides-tarjetas);
 }
 .globo {
   display: flex;
@@ -108,6 +108,9 @@ body {
   padding: 1rem;
   font-size: 1.6rem;
   margin-left: 0.5rem;
+}
+.tarjeta-tipo-1__menu {
+  margin-right: var(--margin-sides-tarjetas);
 }
 
 /* Tarjeta tipo 1 - end */
